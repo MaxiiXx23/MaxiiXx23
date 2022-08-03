@@ -1,5 +1,5 @@
 ### Olá meu nome é Max Jonatas 👋🤖
-### Sou um programador JavaScript Full Stack 📱🖥️
+### Sou um programador Back-end focado específicamente em desenvolver Api RESTful em Node.js, também amo criar aplicações mobile com React Native.📱🖥️
 ### Minha rede social:  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/max.jonatas/)
 ![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiiXx23&show_icons=true&theme=tokyonight)
 
