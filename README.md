@@ -1,5 +1,5 @@
 ### Olá meu nome é Max Jonatas 👋🤖
-### Sou um programador Full Stack Javascript/Typescript com focado específicamente em desenvolver Api REST em Node.js, também amo criar aplicações Web e Mobile com ReactJs e React Native.📱🖥️
+### Sou um programador Full Stack Javascript/Typescript com foco específicamente em desenvolver Api REST em Node.js, também amo criar aplicações Web e Mobile com ReactJs e React Native.📱🖥️
 
 ### Formações e Diplomas:
 
