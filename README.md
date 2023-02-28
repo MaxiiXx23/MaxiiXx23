@@ -1,6 +1,9 @@
 ### Hello World! My name is Max Jonatas 👋🤖
 ### I'm a Full Stack Developer Javascript/Typescript with focus specifically in to develop API's REST on Node.js, also I love to create applications Web and Mobile with ReactJs and React Native.📱🖥️
 
+## My Portfolio:
+   * https://max-developer.vercel.app/
+
 ### Diplomas:
 
 * Graduated Technician in Systems Development by ETEC (2020);
@@ -8,7 +11,8 @@
 * Diploma in React Native by the Trail React Native Ignite Rocketseat (2022);
 
 ### Studying:
-* Intermediary English CNA(2022-2023)
+* 1° semester in Analysis and Systems Development by Uninter (2023-2025)
+* Intermediary English CNA (2022-2023)
 * ReactJS by the Trail ReactJS Ignite Rocketseat (2022/2023)
 
 ### Skills:
