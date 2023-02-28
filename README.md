@@ -1,21 +1,21 @@
-### Hello World! My name is Max Jonatas 👋🤖
+### Hello World! My name is Max Jônatas 👋🤖
 ### I'm a Full Stack Developer Javascript/Typescript with focus specifically in to develop API's REST on Node.js, also I love to create applications Web and Mobile with ReactJs and React Native.📱🖥️
 
-## My Portfolio:
+## 🖥️ My Portfolio:
    * https://max-developer.vercel.app/
 
-### Diplomas:
+### 📜 Diplomas:
 
 * Graduated Technician in Systems Development by ETEC (2020);
 * Diploma in Node.js by the Trail Node.js Ignite Rocketseat (2022);
 * Diploma in React Native by the Trail React Native Ignite Rocketseat (2022);
 
-### Studying:
+### 📚 Studying:
 * 1° semester in Analysis and Systems Development by Uninter (2023-2025)
 * Intermediary English CNA (2022-2023)
 * ReactJS by the Trail ReactJS Ignite Rocketseat (2022/2023)
 
-### Skills:
+### 🧠 Skills:
 * Javascript/Typescript
 * Node.js
 * React Native
@@ -28,14 +28,14 @@
 * SQL
 * NoSQL(MongoDB)
 
-### My social medias:  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/max.jonatas/) [![Linkedin](https://img.shields.io/badge/Linkedin-0ea5e9?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-jonatas)
+### 📱 My social medias:  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/max.jonatas/) [![Linkedin](https://img.shields.io/badge/Linkedin-0ea5e9?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-jonatas)
 
 
 ![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiiXx23&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiiXx23)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies I use:
+### 🚀 Technologies I use:
 <div style="display: inline_block"> <br/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
