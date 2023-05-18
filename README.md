@@ -25,6 +25,7 @@
 * Styled-Components
 * HTML5
 * CSS3
+* Prisma
 * TypeORM
 * SQL
 * NoSQL(MongoDB)
