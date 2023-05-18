@@ -14,6 +14,7 @@
 * 1° semester in Analysis and Systems Development by Uninter (2023-2025)
 * Intermediary English CNA (2022-2023)
 * ReactJS by the Trail ReactJS Ignite Rocketseat (2022/2023)
+* AWS - Amazon Web Services
 
 ### 🧠 Skills:
 * Javascript/Typescript
