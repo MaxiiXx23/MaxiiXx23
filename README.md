@@ -15,6 +15,7 @@
 * Intermediary English CNA (2022-2023)
 * React.js by the Trail React.js Ignite Rocketseat (2022/2023)
 * AWS - Amazon Web Services
+* Python
 
 ## 🧠 Skills:
 * Javascript/Typescript
