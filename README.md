@@ -11,7 +11,7 @@
 * Diploma in React Native by the Trail React Native Ignite Rocketseat (2022);
 
 ## 📚 Studying:
-* 1° semester in Analysis and Systems Development by Uninter (2023-2025)
+* 2° semester in Analysis and Systems Development by Uninter (2023-2025)
 * Intermediary English CNA (2022-2023)
 * React.js by the Trail React.js Ignite Rocketseat (2022/2023)
 * PHP
