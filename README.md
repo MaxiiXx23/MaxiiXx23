@@ -7,21 +7,20 @@
 ## 📜 Diplomas:
 
 * Graduated Technician in Systems Development by ETEC (2020);
-* Diploma in Node.js by the Trail Node.js Ignite Rocketseat (2022);
-* Diploma in React Native by the Trail React Native Ignite Rocketseat (2022);
+* Node.js by the Trail Node.js Ignite Rocketseat (2022);
+* React Native by the Trail React Native Ignite Rocketseat (2022);
+* Intermediary English CNA (2022-2023);
 
 ## 📚 Studying:
 * 2° semester in Analysis and Systems Development by Uninter (2023-2025)
-* Intermediary English CNA (2022-2023)
-* React.js by the Trail React.js Ignite Rocketseat (2022/2023)
-* PHP
 
 ## 🧠 Skills:
 * Javascript/Typescript
 * Node.js
 * AWS - Amazon Web Services
+* Heroku
 * React Native
-* ReactJs
+* React.js
 * Docker
 * Styled-Components
 * HTML5
