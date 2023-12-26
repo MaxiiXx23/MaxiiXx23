@@ -1,4 +1,4 @@
-### Hello World! I'm Max Jônatas 👋🤖
+# Hello World! Pleasure, I'm Max. 👋🤖
 ### I'm a Full Stack Developer Javascript/Typescript with focus specifically in to develop API's REST on Node.js, also I love to create applications Web and Mobile with React and React Native.📱🖥️
 
 ## 🚀 Technologies:
@@ -6,6 +6,7 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express" />
     <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-0f766e?style=for-the-badge&logo=prisma&logoColor=white" />
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-dc2626?style=for-the-badge&logo=Git&logoColor=white" />
     <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=Github&logoColor=white" />
