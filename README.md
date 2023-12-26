@@ -38,4 +38,8 @@
 * Prisma
 * SQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiiXx23)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 My statistics:
+<div style="display: flex align-items: center justify-content: center gap: 1.5rem">
+    ![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiiXx23&show_icons=true&theme=midnight-purple)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiiXx23)](https://github.com/anuraghazra/github-readme-stats)
+</div>
