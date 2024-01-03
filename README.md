@@ -29,6 +29,7 @@
 ## 🧠 Skills:
 * Javascript/Typescript
 * Node.js
+* HTTP(HTTPS) e Websocket
 * AWS - Amazon Web Services
 * Heroku
 * React Native
