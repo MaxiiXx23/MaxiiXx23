@@ -24,6 +24,7 @@
 
 ## 📚 Studying:
 * 3° semester in Analysis and Systems Development by Uninter (2023-2025)
+* Alura <a href="https://www.alura.com.br/"><img align="center" alt="Technologies" src="https://img.shields.io/badge/technologies-000?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
 
 ## 🧠 Skills:
 * Javascript/Typescript
