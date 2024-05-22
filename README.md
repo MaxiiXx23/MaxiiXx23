@@ -33,12 +33,13 @@
 * AWS - Amazon Web Services
 * Heroku
 * React Native
-* React.js
+* React.js (Vite & Next.js)
 * Docker
 * Styled-Components
 * Tailwind CSS
 * Prisma
 * SQL
+* Git Flow & SCRUM
 
 ## 📈 My statistics:
 ![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiiXx23&show_icons=true&theme=midnight-purple)
