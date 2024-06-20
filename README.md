@@ -1,5 +1,5 @@
 # Hello World! Pleasure, I'm Max. 👋🤖
-### I'm a Full Stack Developer Javascript/Typescript with focus specifically in to develop API's REST on Node.js, also I love to create applications Web and Mobile with React and React Native.📱🖥️
+### I'm a Full Stack Developer Javascript/Typescript with focus specifically in to develop API's REST on Node.js, also I love to create applications Web with React using Vite and Next.js or on the stack PHP (Front end and Back end).🖥️
 
 ## 🚀 Technologies:
 <div style="width: '100%' display: flex align-items: center justify-content: center gap: 1.5rem flex-direction:column">
@@ -29,7 +29,7 @@
 ## 🧠 Skills:
 * Javascript/Typescript
 * Node.js
-* HTTP(HTTPS) e Websocket
+* PHP & Composer
 * AWS - Amazon Web Services
 * Heroku
 * React Native
