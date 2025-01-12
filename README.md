@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">4° semester in Analysis and Systems Development by Uninter (2023-2025);<br><br>Cursos - Alura (PHP)<br><br>UI/UX Design</p>
+<p align="left">5° semester in Analysis and Systems Development by Uninter (2023-2025);<br><br>Cursos - Alura (PHP)<br><br>UI/UX Design</p>
 
 ###
 
